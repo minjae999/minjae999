@@ -1,16 +1,20 @@
-## Hi there 👋
+```
+                                              -------------------------
+                                              Identity: Koo
+            _.--._  _.--._                    Office: AB180
+      ,-=.-":;:;:;\':;:;:;"-._                Relic: Company-issued MBP
+      \\\:;:;:;:;:;\:;:;:;:;:;\               Fav AI Model: Haiku 4.5 
+       \\\:;:;:;:;:;\:;:;:;:;:;\              Primary Editor: Vim
+        \\\:;:;:;:;:;\:;:;:;:;:;\             Native Lingo: Swift, Obj-C
+         \\\:;:;:;:;:;\:;::;:;:;:\            Compiling: Haskell
+          \\\;:;::;:;:;\:;:;:;::;:\           Hobbies: Reading & Classics
+           \\\;;:;:_:--:\:_:--:_;:;\          Off-duty: 17:00 (Hard-coded)
+            \\\_.-"      :      "-._\         GPU: Radeon Pro 560
+             \`_..--""--.;.--""--.._=>        Memory: 16384MiB
+              "                               -------------------------
+              [ 2017. 08 ~ ing ]              Advice from carbon-based lifeforms is deprecated. 
+              [ iOS Developer  ]              I only sync with the wisdom of silicon.
 
-<!--
-**minjae999/minjae999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                              Peer reviews are delegated to GPT-5. 
+                                              Humans, please just trigger the 'Approve' button.
+```
